@@ -1,3 +1,9 @@
+# Proyecto: Manejo de Archivos en C++
+**Estudiante:** LUIS FERNANDO ARREAGA PRADO - 2890-25-28962
+
+## Descripción
+Este repositorio contiene un ejercicio práctico sobre la creación de un sistema informático de una clínica veterinaria que registra pacientes, genera citas y crea un informe con el historial.
+
 #include <iostream>
 #include <vector>
 #include <string>
